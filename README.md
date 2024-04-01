@@ -11,3 +11,7 @@ Google's API can be used with a variety of different languages, but these specif
   - Python Weather (free) found [here](https://pypi.org/project/python-weather/)
 
   ------
+# Images:
+- no sample images are provided with the code
+- the code will require different types of images for different programs
+  - e.g. a stop sign picture for the sign detection program vs. a face for the emotion detecting program
